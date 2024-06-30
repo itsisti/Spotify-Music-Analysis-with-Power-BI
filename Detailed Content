@@ -1,0 +1,30 @@
+Spotify Music Analysis with Power BI
+#Overview
+This project provides an in-depth analysis of Spotify's streaming trends for the year 2024, utilizing Power BI for data visualization. The interactive dashboard delivers valuable insights into the most streamed songs, artists, albums, and other significant metrics.
+
+#Key Features:
+Total Streams and Track Insights
+
+Total Streams: 1 trillion streams analyzed.
+Tracks Analyzed: 3,286 tracks.
+Average Streams per Track: 348 million streams.
+Top 10 Songs by Streams Visual representation of the most streamed songs,Analysis of the most popular artists, with leaders like Drake and Taylor Swift. Top 10 Albums by Streams
+Streams by Release Date,Visualization of streaming spikes around major release dates,Playlist Reach vs. Spotify Streams
+Correlation analysis between playlist reach and streaming numbers.
+Spotify Streams by Day Analysis of daily streaming trends, with a notable peak on Fridays.
+#Project Structure
+Data
+Data Source: The dataset contains information on Spotify streams from various tracks, artists, and albums for the year 2024.
+Data Table: Spotify Songs 2024
+#Power BI Dashboard
+File Name: Spotify_Music_Analysis.pbix
+Dashboards Included:
+Top 10 Songs by Streams
+Top 10 Artists by Streams
+Top 10 Albums by Streams
+Streams by Release Date
+Playlist Reach vs. Spotify Streams
+Spotify Streams by Day
+#Screenshots
+Full Dashboard View:
+Focused View: January to June 2024:
